@@ -1,0 +1,43 @@
+    1  ls
+    2  cd tmpx4
+    3  ls
+    4  git clone https://github.com/kor1999/OSI.git
+    5  git status
+    6  git commit -m "CMT"
+    7  git remote add origin https://github.com/kor1999/OSI.git
+    8  git push -u origin master
+    9  git config --global user.email "kor1999@mail.ru"
+   10  git config --global user.name "kor1999"
+   11  git commit -m "CMT"
+   12  git push
+   13  git push --set-upstream origin master
+   14  ls
+   15  cd week01
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd week01
+   20  ls
+   21  cd week1
+   22  cd ..
+   23  rmdir week01
+   24  cd week1
+   25  ls
+   26  cd ..
+   27  git add -a
+   28  git add -A
+   29  git commit "Potom razberemsya"
+   30  git status
+   31  git push
+   32  git push
+   33  git status
+   34  git add -a
+   35  git add -a
+   36  git add -a
+   37  git add -all
+   38  git add --all
+   39  git status
+   40  git commit -m "com2"
+   41  git push
+   42  history
+   43  history > week1/ex2.txt
