@@ -1,0 +1,11 @@
+Increased Hit/Miss ratio:
+0,1,0,1,0,1...
+This is a recurring sequences. The program will use pages already created before.
+The first few(N) pages will be created for the first time and they will have misses,
+but with the repetitions will be only hits.
+
+Decreased:
+0,1,2,3,4,5... 
+This is a sequence without any repetition. Here will be only misses,
+because program will not use already created page, it will create 
+new page each time.
